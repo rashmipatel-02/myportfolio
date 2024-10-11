@@ -12,7 +12,7 @@ const Resume = () => {
       </div>
       <div className="flex justify-center space-x-4 mt-8">
 
-        <a href='https://drive.google.com/file/d/1URQLTihDxFfE2ZMv2_ZWIfg9SkiubtE6/view?usp=sharing' target='_blank'>
+        <a href='https://drive.google.com/file/d/151aip4otJhrgaBNM2s8WGDQKgMHIsYj8/view?usp=sharing' target='_blank'>
           <button
             className="bg-red-500 text-white px-6 py-3 rounded-md text-xl"
           >
